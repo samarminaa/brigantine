@@ -64,3 +64,35 @@ Build a dbt-powered data model and Looker dashboard that explores **real estate 
     - Public investment per capita by block group
 
 ---
+
+### **How to Access**
+
+## Install on Local Device
+Fork it, clone it, navigate from the command line
+
+Example
+```sh
+cd ~/Documents/GitHub/brigantine
+```
+
+## Setup
+Create an anaconda virtual environment
+
+Example
+```sh
+conda activate brig-env
+```
+ 
+Install necessary packages, like duckdb and pandas
+```sh
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run the python script locally
+
+Example
+```sh
+python -m brigantine.py
+```
