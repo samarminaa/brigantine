@@ -64,11 +64,3 @@ Build a dbt-powered data model and Looker dashboard that explores **real estate 
     - Public investment per capita by block group
 
 ---
-
-### 💡 Beginner Tips:
-
-- Start with **Zillow + ACS data**, build 2–3 models, and create a simple “Neighborhood Profile” dashboard.
-- Add more layers like **property tax or flood data** later as you practice joins and spatial mapping.
-- If you can’t find a data portal for Brigantine itself, Atlantic County and NJ state datasets usually include it.
-
----
